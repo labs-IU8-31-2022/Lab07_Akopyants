@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.32413.511
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Lab07_Akopyants", "Lab07_Akopyants\Lab07_Akopyants.csproj", "{D4467887-2A2C-4CEA-83A7-86AD45F3318B}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Reflection_XML", "Reflection_XML\Reflection_XML.csproj", "{92F70E3E-D47A-4015-9601-DAD59D30928E}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{D4467887-2A2C-4CEA-83A7-86AD45F3318B}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{D4467887-2A2C-4CEA-83A7-86AD45F3318B}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{D4467887-2A2C-4CEA-83A7-86AD45F3318B}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{D4467887-2A2C-4CEA-83A7-86AD45F3318B}.Release|Any CPU.Build.0 = Release|Any CPU
+		{92F70E3E-D47A-4015-9601-DAD59D30928E}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{92F70E3E-D47A-4015-9601-DAD59D30928E}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{92F70E3E-D47A-4015-9601-DAD59D30928E}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{92F70E3E-D47A-4015-9601-DAD59D30928E}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {79502F11-EB00-4A72-9142-F67A1A53E7F3}
+	EndGlobalSection
+EndGlobal
